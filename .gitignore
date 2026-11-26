@@ -1,0 +1,10 @@
+.fim-data/
+FileFim/
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.wmv
+*.webm
+Thumbs.db
+Desktop.ini
